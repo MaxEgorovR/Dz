@@ -1,0 +1,16 @@
+C:\Users\maxon\source\repos\Dz\bin\Debug\net8.0-windows\Dz.exe
+C:\Users\maxon\source\repos\Dz\bin\Debug\net8.0-windows\Dz.deps.json
+C:\Users\maxon\source\repos\Dz\bin\Debug\net8.0-windows\Dz.runtimeconfig.json
+C:\Users\maxon\source\repos\Dz\bin\Debug\net8.0-windows\Dz.dll
+C:\Users\maxon\source\repos\Dz\bin\Debug\net8.0-windows\Dz.pdb
+C:\Users\maxon\source\repos\Dz\obj\Debug\net8.0-windows\Dz.Form1.resources
+C:\Users\maxon\source\repos\Dz\obj\Debug\net8.0-windows\Dz.csproj.GenerateResource.cache
+C:\Users\maxon\source\repos\Dz\obj\Debug\net8.0-windows\Dz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxon\source\repos\Dz\obj\Debug\net8.0-windows\Dz.AssemblyInfoInputs.cache
+C:\Users\maxon\source\repos\Dz\obj\Debug\net8.0-windows\Dz.AssemblyInfo.cs
+C:\Users\maxon\source\repos\Dz\obj\Debug\net8.0-windows\Dz.csproj.CoreCompileInputs.cache
+C:\Users\maxon\source\repos\Dz\obj\Debug\net8.0-windows\Dz.dll
+C:\Users\maxon\source\repos\Dz\obj\Debug\net8.0-windows\refint\Dz.dll
+C:\Users\maxon\source\repos\Dz\obj\Debug\net8.0-windows\Dz.pdb
+C:\Users\maxon\source\repos\Dz\obj\Debug\net8.0-windows\Dz.genruntimeconfig.cache
+C:\Users\maxon\source\repos\Dz\obj\Debug\net8.0-windows\ref\Dz.dll
